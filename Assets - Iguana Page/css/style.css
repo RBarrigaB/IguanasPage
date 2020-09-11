@@ -1,0 +1,142 @@
+body{
+  background-color: #000000;
+  margin:0;
+  padding:0;
+  border:0;
+  width: 100%;
+}
+
+#caracteristicas{
+  text-align: center;
+}
+.claro{
+  color: #ffffff;
+  text-align: center;
+  margin:0 auto;
+}
+
+h1{
+  font-family: 'Raleway', sans-serif;
+  font-size: 35px;
+  font-style: normal;
+  margin:0;
+}
+
+.container{
+  width: 100%;
+  overflow: hidden;
+}
+.iguanas, #foto_iguana{
+  width:100%;
+}
+
+p{
+  width: auto;
+  color: #ffffff;
+  font-family: 'Raleway', sans-serif;
+  font-size: 14px;
+  vertical-align: inherit;
+}
+
+#foto_iguana_01{
+  width: 100%;
+}
+.foto_iguana_01{
+  width: 25%;
+  height: auto;
+  vertical-align: top;
+}
+.texto_iguana{
+  width: 29%;
+  height: 300px;
+  font-size: 300;
+  text-align: justify;
+  text-align-last: middle;
+  margin-right: 6%;
+  margin-top: 0;
+  padding-left: 12rem;
+  padding-right: 7rem;
+  padding-top:2rem;
+  vertical-align: top;
+  color: #ffffff;
+}
+.container_medio{
+  background-color: #000000;
+ padding-top: 2rem;
+  vertical-align: top;
+}
+
+.container_medio02{
+  background-color:#1e1a13;
+ padding-top: 2.5rem;
+ padding-bottom: 2.5rem;
+}
+
+#caracteristicas{
+  font-family: "Raleway";
+  font-weight: 500;
+  color: #ffffff;
+}
+
+.filas{
+  text-align: center;
+  padding-left: 10rem;
+ 
+}
+
+.column{
+  display: inline-block;
+  padding-right: 7rem;
+  padding-top: 1.5rem;
+
+}
+.textos{
+  font-family: "Raleway";
+  font-weight: 300;
+  color: #ffffff;
+}
+.iconos{
+  color:#ffffff;
+}
+.middle_iguana{
+  width: 100%;
+  vertical-align: top;
+}
+.container_inferior{
+  padding-top: 2rem;
+}
+.fotos_iguanas_inferior{
+  vertical-align: top;
+  padding-bottom: 2.5rem;
+  padding-top: 1rem;
+}
+#fotos_inf1{
+  width: 27.9%;
+  padding-right: 1rem;
+  padding-left: 9rem;
+}
+#fotos_inf2{
+  width: 24.2%;
+  padding-right: 1rem;
+}
+#fotos_inf3{
+  width: 23.55%;
+  padding-right: 1rem;
+}
+.texto_iguana, #foto_iguana_01, .foto_iguana_01,.fila1,.fila2, .fotos_iguanas_inferior{
+
+  display: inline-block;
+
+}
+.pie{
+  background-color: #1e1a13;
+padding: 2rem;
+}
+#texto_pie{
+color:#ffffff;
+text-align: center;
+font-family: 'Raleway', sans-serif;
+font-size: 15px;
+font-style: normal;
+margin:0;
+}
